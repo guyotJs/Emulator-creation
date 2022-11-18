@@ -34,3 +34,5 @@ How to make a emulator in <a href="https://neptunjs.xyz/">NeptunJS</a>
 ```
 
 > And BAM there is your emulator!
+
+> Optional, Submit a PR (Pull request) with the new emulator to <a href="https://github.com/ClassicMC-Studios/ClassicMC-Studios.github.io/tree/main/guyot/games">The old server<a>
